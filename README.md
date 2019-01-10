@@ -1,2 +1,2 @@
 # QuadTree-CollisionDetection
-# There are currently files missing from this repository which will be uploaded later on tonight. 
+This repository uses SDL. Many of the related files necessary for compilation are not included, as this repository primarily serves as a showcase of my coding style.
